@@ -1,16 +1,13 @@
-### Hi there 👋
+### Olá 👋
 
-<!--
-**zeeckcwb/zeeckcwb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Me chamo Ezequiel Frizon, sou iniciante em programação, focado em me tornar um desenvolvedor Back-end C#
 
-Here are some ideas to get you started:
+Atualmente estou estudando:
+- C#
+- .NET
+- OO
+- MVC
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+ 
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>](https://github.com/https://github.com/zeeckcwb)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30'>](https://www.linkedin.com/in/https://www.linkedin.com/in/ezequiel-frizon-1634ab17b//)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30'>](https://www.facebook.com/https://www.facebook.com/zeeckspeed/)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30'>](https://www.instagram.com/https://www.instagram.com/zeeckspeed//)
