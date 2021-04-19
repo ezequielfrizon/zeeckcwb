@@ -1,12 +1,12 @@
 ### Olá 👋
 
-Me chamo Ezequiel Frizon, sou iniciante em programação, focado em me tornar um desenvolvedor Back-end C#
+Me chamo Ezequiel Frizon, sou iniciante em programação, focado em me tornar um desenvolvedor Front-end
 
 Atualmente estou estudando:
-- C#
-- .NET
-- OO
-- MVC
+- HTML5
+- CSS3
+- JavaScript
+- ReactJs
 
  
 
