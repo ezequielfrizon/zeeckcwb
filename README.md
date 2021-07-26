@@ -10,4 +10,4 @@ Atualmente estou estudando:
 
  
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' color='lightgreen' height='30'>](https://www.linkedin.com/in/ezequiel-frizon/)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' color='lightgreen' height='30'>](https://www.instagram.com/zeeckspeed/)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' color='lightgreen' target='_blank' height='30'>](https://www.linkedin.com/in/ezequiel-frizon/)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' target='_blank' color='lightgreen' height='30'>](https://www.instagram.com/zeeckspeed/)
