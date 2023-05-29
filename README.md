@@ -1,13 +1,27 @@
-### Olá 👋
+### Olá 😀
 
-Me chamo Ezequiel Frizon, sou iniciante em programação, focado em me tornar um desenvolvedor Front-end
+Meu nome é Ezequiel Frizon.
+Sou Desenvolvedor de Software Front-end. 💻
+Como programador apaixonado pelo JavaScript e todo o seu ecossistema!
 
-Atualmente estou estudando:
-- HTML5
-- CSS3
-- JavaScript
-- ReactJs
+Conhecimentos profissionais:
 
- 
+- React.Js
+- Next.Js
+- HTML/CSS
+- ES6 JavaScript.
+- TypeScript.
+- Node
+- Git
+- Desenvolvimento ágil com Scrum
+- Styled Components
+- Material UI
+- Redux
+- MySQL
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' color='lightgreen' target='_blank' height='30'>](https://www.linkedin.com/in/ezequiel-frizon/)         [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' target='_blank' color='lightgreen' height='30'>](https://www.instagram.com/zeeckspeed/)
+Tenho como alvo me tornar especialista nas tecnologias em que atuo. Busco estar sempre atualizado para melhorar minhas skills, entendendo a mais baixo nível e, assim, evoluir a qualidade do código que desenvolvo. Acredito que a interação do trabalho em equipe é a melhor forma de crescer profissionalmente, tanto com o aprendizado quanto com o compartilhamento do conhecimento.
+
+Contato comigo: 
+41 998274595
+https://www.linkedin.com/in/ezequiel-frizon/
+ezqlcwb@hotmail.com
